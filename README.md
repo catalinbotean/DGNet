@@ -1,0 +1,1 @@
+This project aims to create a neural network able to maintain the performances across domain changes.
